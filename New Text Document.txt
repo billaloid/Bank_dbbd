@@ -1,0 +1,14 @@
+        //const Deposit_Amount = document.getElementById("DepositAmount").value;//read value from input
+       // const DepositNum = parseFloat(Deposit_Amount);
+        //const Current_Deposit = document.getElementById("CurrentDeposit").innerText;//Read value heading
+        //const CurrentDepositNum = parseFloat(Current_Deposit);//string convert num
+        //const TotalDeposit = DepositNum + CurrentDepositNum;
+         // document.getElementById("CurrentDeposit").innerText = TotalDeposit;//set value
+         /*change current Balance code 
+         // const CurrentBalance=document.getElementById("currentBalance").innerText;//Read value Balance
+         //const CurrentBalanceNum=parseFloat(CurrentBalance);//string convert num
+         //console.log(CurrentBalance);
+         // const TotalBalance=DepositNum+CurrentBalanceNum;
+         //console.log(TotalBalance);
+        //document.getElementById("currentBalance").innerText=TotalBalance;//set Balance balance id
+         */
